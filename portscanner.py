@@ -24,3 +24,6 @@ if ',' in targets:
         scan(ip_addr.strip(), ports)
 else:
     scan(targets.strip(), ports)
+    
+
+    #hello bikash#
