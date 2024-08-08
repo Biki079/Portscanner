@@ -26,4 +26,4 @@ else:
     scan(targets.strip(), ports)
     
 
-    #hello bikash#
+    
